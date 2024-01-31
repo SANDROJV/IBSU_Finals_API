@@ -3,6 +3,8 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
 import { Router } from '@angular/router';
 import { CanComponentDeactivate } from '../guards/can-deactivate.guard';
+import { TranslateService } from '@ngx-translate/core';
+import { TranslationService } from '../services/translation.service';
 
 @Component({
   selector: 'app-register',
@@ -15,8 +17,16 @@ export class RegisterComponent implements OnInit, CanComponentDeactivate {
   constructor(
     private fb: FormBuilder,
     private http: HttpClient,
-    private router: Router
-  ) {}
+    private router: Router,
+    private translate: TranslateService,
+    private translationService: TranslationService
+  ) {
+    this.translate.setDefaultLang('en');
+  }
+
+  changeLanguage(lang: string): void {
+    this.translationService.setLanguage(lang);
+  }
 
   ngOnInit() {
     this.registrationForm = this.fb.group({

@@ -1,0 +1,11 @@
+{
+  "library": "Library",
+  "books": "Books",
+  "authors": "Authors",
+  "register": "Register",
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "login page": "Login page",
+  "register page": "Register page"
+}

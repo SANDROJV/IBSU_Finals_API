@@ -1,0 +1,11 @@
+{
+  "library": "Bibliothek",
+  "books": "Bücher",
+  "authors": "Autoren",
+  "register": "Registrieren",
+  "login": "Anmelden",
+  "username": "Benutzername",
+  "password": "Passwort",
+  "login page": "Anmeldeseite",
+  "register page": "Registrierungsseite"
+}
