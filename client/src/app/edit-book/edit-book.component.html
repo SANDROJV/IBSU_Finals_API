@@ -1,0 +1,38 @@
+<app-nav-bar></app-nav-bar>
+
+<div *ngIf="book" class="my-5">
+  <div class="edit-container col-md-6 mx-auto">
+    <h2 class="text-center mb-4">Edit Book</h2>
+    <form [formGroup]="newBookForm" (ngSubmit)="onSubmit()">
+      <div class="mb-3">
+        <label>Title:</label>
+        <input type="text" formControlName="title" class="form-control" required>
+      </div>
+      <div class="mb-3">
+        <label>Description:</label>
+        <textarea formControlName="description" class="form-control" required></textarea>
+      </div>
+      <div class="mb-3">
+        <label>Rating:</label>
+        <input type="number" formControlName="rating" class="form-control" required min="1" max="5">
+      </div>
+      <div class="form-check mb-3">
+        <input type="checkbox" formControlName="available" class="form-check-input">
+        <label for="available" class="form-check-label">Availability</label>
+      </div>
+      <div class="mb-3">
+        <label>Image:</label>
+        <input type="file" (change)="onImageSelected($event)" class="form-control">
+      </div>
+
+
+      <div class="text-center mt-4">
+        <button type="submit" class="btn btn-primary me-3">Update Book</button>
+        <button type="button" class="btn btn-secondary" (click)="onCancel()">Cancel</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+

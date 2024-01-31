@@ -1,0 +1,7 @@
+.navbar-nav .nav-item .nav-link.active {
+  font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link:not(.active) {
+  opacity: 0.6;
+}

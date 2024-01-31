@@ -1,0 +1,42 @@
+<h1>Login page</h1>
+
+<form [formGroup]="loginForm" (ngSubmit)="login()">
+  <input
+    type="text"
+    formControlName="username"
+    placeholder="Username"
+    id="username"
+  />
+  <p
+    *ngIf="
+      loginForm.get('username').hasError('required') &&
+      loginForm.get('username').touched
+    "
+  >
+    Username is required.
+  </p>
+
+  <input type="password" formControlName="password" placeholder="Password" />
+  <p
+    *ngIf="
+      loginForm.get('password').hasError('required') &&
+      loginForm.get('password').touched
+    "
+  >
+    Password is required.
+  </p>
+  <p
+    *ngIf="
+      loginForm.get('password').hasError('minlength') &&
+      loginForm.get('password').touched
+    "
+  >
+    Password must be at least 6 characters.
+  </p>
+
+  <button type="button" class="btn btn-secondary" [disabled]="loginForm.invalid">Login</button>
+</form>
+
+<button type="button" class="btn btn-secondary" (click)="goToRegister()">
+  Register
+</button>

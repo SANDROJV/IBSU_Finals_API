@@ -1,0 +1,119 @@
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\LemonDo\LemonLibrary\Database\bin\Debug\net6.0\Database.deps.json
+D:\LemonDo\LemonLibrary\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+D:\LemonDo\LemonLibrary\Database\bin\Debug\net6.0\Database.dll
+D:\LemonDo\LemonLibrary\Database\bin\Debug\net6.0\Database.pdb
+D:\LemonDo\LemonLibrary\Database\bin\Debug\net6.0\Business.dll
+D:\LemonDo\LemonLibrary\Database\bin\Debug\net6.0\Business.pdb
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.dll
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\refint\Database.dll
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.pdb
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+D:\LemonDo\LemonLibrary\Database\obj\Debug\net6.0\ref\Database.dll
+F:\Irakli\Lemon\Lemon Library\Database\bin\Debug\net6.0\Database.deps.json
+F:\Irakli\Lemon\Lemon Library\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+F:\Irakli\Lemon\Lemon Library\Database\bin\Debug\net6.0\Database.dll
+F:\Irakli\Lemon\Lemon Library\Database\bin\Debug\net6.0\Database.pdb
+F:\Irakli\Lemon\Lemon Library\Database\bin\Debug\net6.0\Business.dll
+F:\Irakli\Lemon\Lemon Library\Database\bin\Debug\net6.0\Business.pdb
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.dll
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\refint\Database.dll
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.pdb
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+F:\Irakli\Lemon\Lemon Library\Database\obj\Debug\net6.0\ref\Database.dll
+D:\LemonDo\New\LemonLibrary\Database\bin\Debug\net6.0\Database.deps.json
+D:\LemonDo\New\LemonLibrary\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+D:\LemonDo\New\LemonLibrary\Database\bin\Debug\net6.0\Database.dll
+D:\LemonDo\New\LemonLibrary\Database\bin\Debug\net6.0\Database.pdb
+D:\LemonDo\New\LemonLibrary\Database\bin\Debug\net6.0\Business.dll
+D:\LemonDo\New\LemonLibrary\Database\bin\Debug\net6.0\Business.pdb
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.dll
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\refint\Database.dll
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.pdb
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+D:\LemonDo\New\LemonLibrary\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\bin\Debug\net6.0\Database.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\bin\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\bin\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\bin\Debug\net6.0\Database.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\bin\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\bin\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\ref\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.deps.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Business.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Business.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\refint\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\bin\Debug\net6.0\Business.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\bin\Debug\net6.0\Business.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Database\obj\Debug\net6.0\ref\Database.dll

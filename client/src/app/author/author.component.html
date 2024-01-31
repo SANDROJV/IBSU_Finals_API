@@ -1,0 +1,26 @@
+<app-nav-bar></app-nav-bar>
+<button class="btn btn-success" style="margin-top: 30px; margin-left: 700px" (click)="goToAddAuthor()">Add Author</button>
+<div class="accordion" id="accordionExample" style="margin-top: 50px">
+  <div class="accordion-item" *ngFor="let author of authors">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse"
+              [attr.data-bs-target]="'#collapse' +
+              author.id"
+              aria-expanded="true"
+              [attr.aria-controls]="'collapse' +
+              author.id"
+              (click)="getAuthorById(author.id)">
+        {{author.id}} {{ author.firstName }} {{ author.lastName }} - {{ author.birthDate | date }}
+
+        <button class="btn btn-primary  " style="margin-left: auto" (click)="details(author.id)" >details</button>
+      </button>
+    </h2>
+    <div [id]="'collapse' + author.id" class="accordion-collapse collapse" [attr.data-bs-parent]="'#accordionExample'">
+      <div class="accordion-body" *ngFor="let book of books" [routerLink]="['/books', book.id]" style="cursor: pointer">
+        <strong>{{ book.title}} </strong>
+        <p>Description: {{ book.description}} </p>
+        <p>Rating: {{ book.rating}}</p>
+      </div>
+    </div>
+  </div>
+</div>

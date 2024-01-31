@@ -1,0 +1,23 @@
+<app-nav-bar></app-nav-bar>
+
+<div class="container mt-5">
+  <h2>Add New Author</h2>
+  <form (submit)="addAuthor()">
+    <div class="mb-3">
+      <label for="firstName">First Name:</label>
+      <input type="text" id="firstName" name="firstName" [(ngModel)]="FirstName" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+      <label for="lastName">Last Name:</label>
+      <input type="text" id="lastName" name="lastName" [(ngModel)]="LastName" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+      <label for="birthDate">Birth Date:</label>
+      <input type="date" id="birthDate" name="birthDate" [(ngModel)]="BirthDate" class="form-control" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Author</button>
+  </form>
+</div>

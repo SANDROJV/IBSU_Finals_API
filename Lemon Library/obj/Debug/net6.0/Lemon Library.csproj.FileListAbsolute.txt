@@ -1,0 +1,555 @@
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\appsettings.Development.json
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\appsettings.json
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Lemon Library.exe
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Lemon Library.deps.json
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Lemon Library.runtimeconfig.json
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Lemon Library.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Lemon Library.pdb
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Humanizer.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.AssemblyReference.cache
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.GeneratedMSBuildEditorConfig.editorconfig
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfoInputs.cache
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfo.cs
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CoreCompileInputs.cache
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cs
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cache
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.Lemon Library.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Lemon Library.props
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lemon Library.props
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lemon Library.props
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\staticwebassets.build.json
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\staticwebassets.development.json
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\scopedcss\bundle\Lemon Library.styles.css
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CopyComplete
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\refint\Lemon Library.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.pdb
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\Lemon Library.genruntimeconfig.cache
+F:\Irakli\Lemon\Lemon Library\Lemon Library\obj\Debug\net6.0\ref\Lemon Library.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\appsettings.Development.json
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\appsettings.json
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.exe
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.deps.json
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.runtimeconfig.json
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.pdb
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Humanizer.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.AssemblyReference.cache
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfoInputs.cache
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfo.cs
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CoreCompileInputs.cache
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cs
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cache
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.Lemon Library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Lemon Library.props
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lemon Library.props
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lemon Library.props
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.build.json
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.development.json
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\scopedcss\bundle\Lemon Library.styles.css
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CopyComplete
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.dll
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\refint\Lemon Library.dll
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.pdb
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.genruntimeconfig.cache
+D:\LemonDo\LemonLibrary\Lemon Library\obj\Debug\net6.0\ref\Lemon Library.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Application.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Business.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Database.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Application.pdb
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Business.pdb
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Database.pdb
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Application.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Business.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Database.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Application.pdb
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Business.pdb
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Database.pdb
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\AutoMapper.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\AutoMapper.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\ImageProcessorCore.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\ImageProcessorCore.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\Irakli\Lemon\Lemon Library\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\LemonDo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\appsettings.json
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\appsettings.Development.json
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.exe
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.deps.json
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.runtimeconfig.json
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.pdb
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\AutoMapper.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Humanizer.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\ImageProcessorCore.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Application.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Business.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Database.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Application.pdb
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Business.pdb
+D:\LemonDo\New\LemonLibrary\Lemon Library\bin\Debug\net6.0\Database.pdb
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.AssemblyReference.cache
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfoInputs.cache
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfo.cs
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CoreCompileInputs.cache
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cs
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cache
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.Lemon Library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Lemon Library.props
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lemon Library.props
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lemon Library.props
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.build.json
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.development.json
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\scopedcss\bundle\Lemon Library.styles.css
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CopyComplete
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\refint\Lemon Library.dll
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.pdb
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.genruntimeconfig.cache
+D:\LemonDo\New\LemonLibrary\Lemon Library\obj\Debug\net6.0\ref\Lemon Library.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\appsettings.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.exe
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.deps.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.runtimeconfig.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\ImageProcessorCore.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Application.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Database.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Application.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\bin\Debug\net6.0\Database.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfoInputs.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfo.cs
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.Lemon Library.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Lemon Library.props
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lemon Library.props
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lemon Library.props
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\scopedcss\bundle\Lemon Library.styles.css
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CopyComplete
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\refint\Lemon Library.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.genruntimeconfig.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Lemon Library\obj\Debug\net6.0\ref\Lemon Library.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\appsettings.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.exe
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.deps.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.runtimeconfig.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Lemon Library.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\ImageProcessorCore.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Application.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Database.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Application.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\bin\Debug\net6.0\Database.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfoInputs.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfo.cs
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.Lemon Library.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Lemon Library.props
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lemon Library.props
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lemon Library.props
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\scopedcss\bundle\Lemon Library.styles.css
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CopyComplete
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\refint\Lemon Library.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\Lemon Library.genruntimeconfig.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Lemon Library\obj\Debug\net6.0\ref\Lemon Library.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\appsettings.Development.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\appsettings.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.exe
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.deps.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.runtimeconfig.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\AutoMapper.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Humanizer.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\ImageProcessorCore.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Application.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Business.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Application.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Business.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Database.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.AssemblyReference.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfoInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfo.cs
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CoreCompileInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cs
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.Lemon Library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Lemon Library.props
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lemon Library.props
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lemon Library.props
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets.build.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets.development.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\scopedcss\bundle\Lemon Library.styles.css
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CopyComplete
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\refint\Lemon Library.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.genruntimeconfig.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\ref\Lemon Library.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\appsettings.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.exe
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.deps.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.runtimeconfig.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Lemon Library.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\ImageProcessorCore.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Application.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Business.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Database.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Application.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Business.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\bin\Debug\net6.0\Database.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.AssemblyReference.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfoInputs.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.AssemblyInfo.cs
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\scopedcss\bundle\Lemon Library.styles.css
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.csproj.CopyComplete
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\refint\Lemon Library.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\Lemon Library.genruntimeconfig.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Lemon Library\obj\Debug\net6.0\ref\Lemon Library.dll

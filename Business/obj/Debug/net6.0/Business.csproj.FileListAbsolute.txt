@@ -1,0 +1,98 @@
+D:\LemonDo\LemonLibrary\Business\bin\Debug\net6.0\Business.deps.json
+D:\LemonDo\LemonLibrary\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+D:\LemonDo\LemonLibrary\Business\bin\Debug\net6.0\Business.dll
+D:\LemonDo\LemonLibrary\Business\bin\Debug\net6.0\Business.pdb
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\Business.dll
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\refint\Business.dll
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\Business.pdb
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+D:\LemonDo\LemonLibrary\Business\obj\Debug\net6.0\ref\Business.dll
+F:\Irakli\Lemon\Lemon Library\Business\bin\Debug\net6.0\Business.deps.json
+F:\Irakli\Lemon\Lemon Library\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+F:\Irakli\Lemon\Lemon Library\Business\bin\Debug\net6.0\Business.dll
+F:\Irakli\Lemon\Lemon Library\Business\bin\Debug\net6.0\Business.pdb
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\Business.dll
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\refint\Business.dll
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\Business.pdb
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+F:\Irakli\Lemon\Lemon Library\Business\obj\Debug\net6.0\ref\Business.dll
+D:\LemonDo\New\LemonLibrary\Business\bin\Debug\net6.0\Business.deps.json
+D:\LemonDo\New\LemonLibrary\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+D:\LemonDo\New\LemonLibrary\Business\bin\Debug\net6.0\Business.dll
+D:\LemonDo\New\LemonLibrary\Business\bin\Debug\net6.0\Business.pdb
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\Business.dll
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\refint\Business.dll
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\Business.pdb
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+D:\LemonDo\New\LemonLibrary\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\bin\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\bin\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Business\obj\Debug\net6.0\ref\Business.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.deps.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Business\obj\Debug\net6.0\ref\Business.dll

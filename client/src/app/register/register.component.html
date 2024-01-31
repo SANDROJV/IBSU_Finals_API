@@ -1,0 +1,48 @@
+<h1>Register page</h1>
+
+<form [formGroup]="registrationForm" (ngSubmit)="register()">
+  <input type="text" formControlName="username" placeholder="Username" />
+  <p
+    *ngIf="
+      registrationForm.get('username').hasError('required') &&
+      registrationForm.get('username').touched
+    "
+  >
+    Username is required.
+  </p>
+
+  <input type="password" formControlName="password" placeholder="Password" />
+  <p
+    *ngIf="
+      registrationForm.get('password').hasError('required') &&
+      registrationForm.get('password').touched
+    "
+  >
+    Password is required.
+  </p>
+  <p
+    *ngIf="
+      registrationForm.get('password').hasError('minlength') &&
+      registrationForm.get('password').touched
+    "
+  >
+    Password must be at least 6 characters.
+  </p>
+  <input
+    type="password"
+    formControlName="confPassword"
+    placeholder="Confirm Password"
+  />
+
+  <button
+    type="submit"
+    class="btn btn-secondary"
+    [disabled]="registrationForm.invalid"
+  >
+    Register
+  </button>
+  
+  <button type="button" class="btn btn-secondary" (click)="goToLogin()">
+    Login
+  </button>
+</form>

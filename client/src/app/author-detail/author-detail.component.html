@@ -1,0 +1,55 @@
+<app-nav-bar></app-nav-bar>
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title text-center mb-4">{{ author.firstName }} {{ author.lastName }}</h2>
+          <div *ngIf="author">
+            <p><strong>Name:</strong>  {{ author.firstName }} {{ author.lastName }}  </p>
+            <p><strong>Date of Birth:</strong> {{ author.birthDate | date }}</p>
+
+            <div *ngIf="books && books.length > 0">
+              <p class="mt-4"><strong>Books:</strong></p>
+              <ul>
+                <li *ngFor="let book of books">
+                  <a [routerLink]="['/books', book.id]" style="cursor: pointer">
+                    {{ book.title }} - {{ book.description }}
+                  </a>
+
+                </li>
+              </ul>
+            </div>
+
+            <div *ngIf="(!books) || (books.length === 0)">
+              <p>No books found for this author.</p>
+            </div>
+          </div>
+
+          <div *ngIf="!author">
+            <p>Loading author details...</p>
+          </div>
+        </div>
+        <div class="d-flex justify-content-center mt-3">
+          <button class="btn btn-primary " (click)="editAuthor()">Edit</button>
+        </div>
+      </div>
+      <div *ngIf="isEditing">
+        <div class="form-group">
+          <label for="editedFirstName">Edited First Name:</label>
+          <input type="text" id="editedFirstName" [(ngModel)]="editedFirstName" class="form-control" required>
+        </div>
+        <div class="form-group">
+          <label for="editedLastName">Edited Last Name:</label>
+          <input type="text" id="editedLastName" [(ngModel)]="editedLastName" class="form-control" required>
+        </div>
+        <div class="form-group">
+          <label for="editedBirthDate">Edited Birth Date:</label>
+          <input type="date" id="editedBirthDate" [(ngModel)]="editedBirthDate" class="form-control" required>
+        </div>
+        <button class="btn btn-primary" (click)="saveChanges()">Save Changes</button>
+        <button class="btn btn-secondary" (click)="isEditing = false">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>

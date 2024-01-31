@@ -1,0 +1,25 @@
+img.card-img-top {
+
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.details-container {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.centered-buttons {
+  margin-top: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-group {
+  width: 70%; /* Adjust the width as needed */
+  margin: 0 auto;
+}

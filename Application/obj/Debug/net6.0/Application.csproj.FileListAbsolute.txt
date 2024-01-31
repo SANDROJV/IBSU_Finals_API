@@ -1,0 +1,133 @@
+D:\LemonDo\LemonLibrary\Application\bin\Debug\net6.0\Application.deps.json
+D:\LemonDo\LemonLibrary\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\LemonDo\LemonLibrary\Application\bin\Debug\net6.0\Application.dll
+D:\LemonDo\LemonLibrary\Application\bin\Debug\net6.0\Application.pdb
+D:\LemonDo\LemonLibrary\Application\bin\Debug\net6.0\Business.dll
+D:\LemonDo\LemonLibrary\Application\bin\Debug\net6.0\Database.dll
+D:\LemonDo\LemonLibrary\Application\bin\Debug\net6.0\Business.pdb
+D:\LemonDo\LemonLibrary\Application\bin\Debug\net6.0\Database.pdb
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.dll
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\refint\Application.dll
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.pdb
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\LemonDo\LemonLibrary\Application\obj\Debug\net6.0\ref\Application.dll
+F:\Irakli\Lemon\Lemon Library\Application\bin\Debug\net6.0\Application.deps.json
+F:\Irakli\Lemon\Lemon Library\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+F:\Irakli\Lemon\Lemon Library\Application\bin\Debug\net6.0\Application.dll
+F:\Irakli\Lemon\Lemon Library\Application\bin\Debug\net6.0\Application.pdb
+F:\Irakli\Lemon\Lemon Library\Application\bin\Debug\net6.0\Business.dll
+F:\Irakli\Lemon\Lemon Library\Application\bin\Debug\net6.0\Database.dll
+F:\Irakli\Lemon\Lemon Library\Application\bin\Debug\net6.0\Business.pdb
+F:\Irakli\Lemon\Lemon Library\Application\bin\Debug\net6.0\Database.pdb
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.dll
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\refint\Application.dll
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.pdb
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+F:\Irakli\Lemon\Lemon Library\Application\obj\Debug\net6.0\ref\Application.dll
+D:\LemonDo\New\LemonLibrary\Application\bin\Debug\net6.0\Application.deps.json
+D:\LemonDo\New\LemonLibrary\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\LemonDo\New\LemonLibrary\Application\bin\Debug\net6.0\Application.dll
+D:\LemonDo\New\LemonLibrary\Application\bin\Debug\net6.0\Application.pdb
+D:\LemonDo\New\LemonLibrary\Application\bin\Debug\net6.0\Business.dll
+D:\LemonDo\New\LemonLibrary\Application\bin\Debug\net6.0\Database.dll
+D:\LemonDo\New\LemonLibrary\Application\bin\Debug\net6.0\Business.pdb
+D:\LemonDo\New\LemonLibrary\Application\bin\Debug\net6.0\Database.pdb
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.dll
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\refint\Application.dll
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.pdb
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\LemonDo\New\LemonLibrary\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\bin\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\bin\Debug\net6.0\Database.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\bin\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\bin\Debug\net6.0\Database.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\Goga\Desktop\Lemondo\LemonLibrary\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\bin\Debug\net6.0\Business.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\bin\Debug\net6.0\Database.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\bin\Debug\net6.0\Business.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\bin\Debug\net6.0\Database.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Application\obj\Debug\net6.0\ref\Application.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.deps.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\bin\Debug\net6.0\Business.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\bin\Debug\net6.0\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\bin\Debug\net6.0\Business.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\bin\Debug\net6.0\Database.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\bin\Debug\net6.0\Business.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\bin\Debug\net6.0\Database.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\bin\Debug\net6.0\Business.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\bin\Debug\net6.0\Database.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\sandr\Desktop\IBSU_Finals_API\Application\obj\Debug\net6.0\ref\Application.dll

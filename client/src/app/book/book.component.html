@@ -1,0 +1,23 @@
+
+<app-nav-bar></app-nav-bar>
+
+<div class="container-fluid">
+  <button class="btn btn-success" routerLinkActive="active" style="margin-bottom: 40px" (click)="goToAdd()">Add Book</button>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col" *ngFor="let book of books">
+      <div class="card" [routerLink]="['/books', book.id]" style="cursor: pointer">
+        <img [src]="book.imageUrl" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{book.title}}</h5>
+          <p class="card-text">{{book.description}}</p>
+          <li *ngFor="let author of book.authors">
+            <strong>{{ author.firstName }} {{ author.lastName }}</strong>
+          </li>
+
+          <p class="rating" style="">{{book.rating}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
